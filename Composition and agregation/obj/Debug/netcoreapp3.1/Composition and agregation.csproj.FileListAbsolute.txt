@@ -1,0 +1,13 @@
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\bin\Debug\netcoreapp3.1\Composition and agregation.exe
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\bin\Debug\netcoreapp3.1\Composition and agregation.deps.json
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\bin\Debug\netcoreapp3.1\Composition and agregation.runtimeconfig.json
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\bin\Debug\netcoreapp3.1\Composition and agregation.runtimeconfig.dev.json
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\bin\Debug\netcoreapp3.1\Composition and agregation.dll
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\bin\Debug\netcoreapp3.1\Composition and agregation.pdb
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.csprojAssemblyReference.cache
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.AssemblyInfoInputs.cache
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.AssemblyInfo.cs
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.csproj.CoreCompileInputs.cache
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.dll
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.pdb
+C:\Users\vopor\OneDrive\Документы\C#\Composition and agregation\Composition and agregation\obj\Debug\netcoreapp3.1\Composition and agregation.genruntimeconfig.cache
